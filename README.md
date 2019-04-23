@@ -1,5 +1,5 @@
 # Windows-Incrementer
-A simple configurable GUI for windows which increments a number overlay via hotkeys.
+A simple configurable GUI for Windows which increments/decrements a number via hotkeys.
 
 ## Download Setup:
 [From Sourceforge](https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download "Download from Sourceforge") or
