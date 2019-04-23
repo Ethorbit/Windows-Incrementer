@@ -4,7 +4,12 @@ A simple configurable GUI for windows which increments a number overlay via hotk
 # Download Setup:
 [Sourceforge](https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download "Setup Sourceforge Link")
 
-# Configurations
+
+
+
+
+
+# Configurations:
 ### This simple program is highly configurable. 
 Configurations are stored in the registry and will not be forgotten.
 
