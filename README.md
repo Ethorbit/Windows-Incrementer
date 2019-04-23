@@ -7,8 +7,6 @@ A simple configurable GUI for windows which increments a number overlay via hotk
 
 
 ## Configurations:
-Configurations are stored in the registry and will not be forgotten.
-
 ### You can:
 * Change position to:
     * Predefined locations: 
