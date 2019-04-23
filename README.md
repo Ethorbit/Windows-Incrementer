@@ -1,19 +1,15 @@
 # Windows-Incrementer
 A simple configurable GUI for windows which increments a number overlay via hotkeys.
 
-# Download Setup:
-[Sourceforge](https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download "Setup Sourceforge Link")
+## Download Setup:
+[Sourceforge](https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download "Download from Sourceforge")
+[Dropbox](https://www.dropbox.com/s/4aj5pag8y2jlm0v/WinIncrementSetup.exe?dl=1 "Download from Dropbox")
 
 
-
-
-
-
-# Configurations:
-### This simple program is highly configurable. 
+## Configurations:
 Configurations are stored in the registry and will not be forgotten.
 
-## You can:
+### You can:
 * Change position to:
     * Predefined locations: 
         * Top Right
