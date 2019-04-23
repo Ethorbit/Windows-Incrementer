@@ -2,8 +2,8 @@
 A simple configurable GUI for windows which increments a number overlay via hotkeys.
 
 ## Download Setup:
-[Sourceforge](https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download "Download from Sourceforge")
-[Dropbox](https://www.dropbox.com/s/4aj5pag8y2jlm0v/WinIncrementSetup.exe?dl=1 "Download from Dropbox")
+[From Sourceforge](https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download "Download from Sourceforge") or
+[From Dropbox](https://www.dropbox.com/s/4aj5pag8y2jlm0v/WinIncrementSetup.exe?dl=1 "Download from Dropbox")
 
 
 ## Configurations:
