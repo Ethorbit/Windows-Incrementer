@@ -2,7 +2,7 @@
 A simple configurable GUI for windows which increments a number overlay via hotkeys.
 
 # Download Setup:
-https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download
+[Sourceforge]: https://sourceforge.net/projects/windows-incrementer/files/WinIncrementSetup.exe/download
 
 # Configurations
 ### This simple program is highly configurable. 
